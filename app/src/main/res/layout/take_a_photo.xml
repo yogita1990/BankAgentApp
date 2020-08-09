@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Take a Photo"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="15dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:background="@android:color/holo_red_dark"
+            android:textColor="@android:color/white"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/fromCameraBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:background="@drawable/bg_red"
+                android:text="From Camera"
+                android:textAllCaps="false"
+
+                android:textColor="@android:color/holo_red_dark"/>
+            <Button
+                android:id="@+id/fromGalleryBtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:background="@drawable/bg_red"
+                android:textColor="@android:color/holo_red_dark"
+                android:text="From Gallery"
+                android:textAllCaps="false"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

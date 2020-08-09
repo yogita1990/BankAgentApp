@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BankAgentApp</string>
+
+
+
+    <string name="spinner_title">select City</string>
+    <string name="hint_pincode_val">Enter Your Pincode.</string>
+    <string name="hint_username">Enter Your name</string>
+    <string name="fcm_token">fcm</string>
+    <string name="notifications_admin_channel_name">notifications_admin_channel_name</string>
+    <string name="notifications_admin_channel_description">notifications_admin_channel_description</string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="hint_mobile_val">Enter your mobile number.</string>
+    <string name="hint_verfication_val">Enter Verification Code</string>
+    <string name="tag1">Tag1</string>
+    <string name="tag2">Tag2</string>
+
+
+
+
+
+
+    <string name="hint_first_val">Please enter firstname</string>
+    <string name="hint_last_val">Please enter lastname</string>
+    <string name="hint_email_val">Please enter Email ID</string>
+    <string name="hint_aadhar_val">Please enter aadhar card number</string>
+</resources>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "321528988336",
+    "firebase_url": "https://bankagentapp.firebaseio.com",
+    "project_id": "bankagentapp",
+    "storage_bucket": "bankagentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321528988336:android:5eb2f73ae59db432e97175",
+        "android_client_info": {
+          "package_name": "com.shawinfosolutions.bankagentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321528988336-53mtqnh8m5eijnn3aja1hql2magnrfu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqu9FHhISKnrBpIzaN3_2CU_0379kODw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321528988336-53mtqnh8m5eijnn3aja1hql2magnrfu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321528988336:android:b397fd941a4b8139e97175",
+        "android_client_info": {
+          "package_name": "com.shawinfosolutions.bankcustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321528988336-lbvq0ql6fol5n1mgj7h6vl025k8m6mut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shawinfosolutions.bankcustomerapp",
+            "certificate_hash": "0dc0ad11d2c8578a2d9934bc301f9fe6519d28f5"
+          }
+        },
+        {
+          "client_id": "321528988336-53mtqnh8m5eijnn3aja1hql2magnrfu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqu9FHhISKnrBpIzaN3_2CU_0379kODw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321528988336-53mtqnh8m5eijnn3aja1hql2magnrfu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
